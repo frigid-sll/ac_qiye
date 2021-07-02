@@ -1,0 +1,78 @@
+#xiugaianniu{
+    position: absolute;
+    left: 913px;
+    bottom: 21px;
+    width: 70px;
+    height: 30px;
+    border-radius:10px;
+    font-size: 13px;
+}
+#xiugaianniu:hover{
+    color: pink;
+}
+#xiugai{
+    position: absolute;
+    font-size: 13px;
+    left: 550px;
+}
+#content:hover{
+    color: pink;
+}
+#all_content{
+    position: absolute;
+    right: 93%;
+}
+#editor{
+    position: relative;
+    bottom: 260px;
+    left: 450px;
+    width: 200px;
+}
+.show{
+    width: 300px;
+    height: 30px;
+}
+.li{
+    width: 100px;
+    position: relative;
+    left: 660px;
+    bottom: 210px;
+}
+.li:hover{
+    color: pink;
+}   
+#content{
+    position: relative;
+    bottom: 32px;
+    left: 910px;
+    width: 70px;
+    height: 30px;
+    border-radius:10px;
+    font-size: 13px;
+}
+.handle{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: 35%;
+    top:40px;
+}
+#edit{
+    width: 300px;
+    position: relative;
+    left: 600px;
+    border-radius:10px;
+}
+.index{
+    font-size: 13px;
+}
+h3{
+    position: relative;
+    bottom: 220px;
+    right: 6%;
+}
+#chaxun{
+    position: absolute;
+    top:150px;
+    left: 720px;
+}

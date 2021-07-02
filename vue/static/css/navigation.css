@@ -1,0 +1,42 @@
+.index{
+        width: 135px;
+        height: 45px;
+        border-radius:10px;
+        background:white;
+        border:1px solid pink;
+        box-shadow: 0px 0px 1px pink;
+        font-size: 13px;
+    }
+.index:hover{
+    color: pink;
+}
+#one{
+    position: fixed;
+    left: 75px;
+    
+}
+#two{
+    position: fixed;
+    top: 120px;
+    left: 75px;
+}
+#three{
+    position: fixed;
+    top: 180px;
+    left: 75px;
+}
+#four{
+    position: fixed;
+    top: 240px;
+    left: 75px;
+}
+#bc{
+    width: 160px;
+    height: 10000px;
+    background: whitesmoke;
+    position: fixed;
+    bottom: 1px;
+    left: 60px;
+    z-index: -1;
+    border-radius:10px;
+}

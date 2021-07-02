@@ -1,0 +1,77 @@
+.ti{
+    text-decoration-line: underline;
+}
+.health_detail{
+    background: #C9E7FF;
+    width: 320px;
+    border-radius:15px;
+    position: relative;
+    left: 426px;
+    padding: 8px;
+}
+.customer_detail{
+    background: white;
+    width: 320px;
+    border-radius:15px;
+    position: relative;
+    left: 65px;
+    padding: 8px;
+}
+.health_name{
+    width: 45px;
+    height: 45px;
+    background: #0089FF;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius:10px;
+    position: relative;
+    left: 770px;
+    top: 46px;
+}
+.customer_name{
+    width: 45px;
+    height: 45px;
+    background: #0089FF;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius:10px;
+    position: relative;
+    left: 10px;
+    top: 48px;
+}
+.health_time{
+    color: gray;
+    font-size: 10px;
+}
+.health_content{
+    font-size: 12px;
+    text-indent:2px;
+}
+.customer_time{
+    color: gray;
+    font-size: 10px;
+}
+.customer_content{
+    font-size: 12px;
+    text-indent:2px;
+}
+#t{
+    background:#F1F2F3;
+    width: 830px;
+    position: relative;
+    left: 550px;
+}
+#da{
+    position: relative;
+    left: 550px;
+    width: 830px;
+}
+.down{
+    text-decoration:underline;
+    color: purple;
+}
+.down:hover{
+    color: pink;
+}
